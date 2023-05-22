@@ -1,4 +1,4 @@
-TASK-DANIELA-GOMEZ [PHP] :convenience_store: — Proyecto para especialista de desarollo 
+TASK-DANIELA-GOMEZ [PHP] :convenience_store: — 
 ==================================================
 STACK : PHP + MYSQL
 ==================================================
