@@ -1,4 +1,4 @@
-[E-Carvajal Store][API]:convenience_store: — Proyecto para especialista de desarollo 
+TASK-DANIELA-GOMEZ [PHP] :convenience_store: — Proyecto para especialista de desarollo 
 ==================================================
 STACK : PHP + MYSQL
 ==================================================
