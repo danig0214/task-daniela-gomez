@@ -69,7 +69,7 @@
                     </div>
                     <div class="col-md-4">
                         <label for="identificacion" class="form-label">Identificacion</label>
-                        <input type="number" name="identificacion" class="form-control" placeholder="10905" max="12"required>
+                        <input type="number" name="identificacion" class="form-control" placeholder="10905" required>
                     </div>
 
                     <div class="col-md-4">
